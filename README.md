@@ -13,3 +13,9 @@ This library provides tools for options trading, incorporating technical analysi
 
 ```bash
 pip install -r requirements.txt
+
+Usage
+Run the main script:
+
+CopyReplit
+python -m options_trading.main
